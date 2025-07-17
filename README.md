@@ -1,4 +1,4 @@
-![trss-akasha-terminal-plugin](https://socialify.git.ci/wbndm1234/trss-akasha-terminal-plugin/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
+![astrbot_plugin_akasha-terminal](https://socialify.git.ci/wbndm1234/astrbot_plugin_akasha-terminal/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
 # TRSS Akasha Terminal Plugin
 
