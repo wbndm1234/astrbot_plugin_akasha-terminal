@@ -1,11 +1,11 @@
 ![astrbot_plugin_akasha-terminal](https://socialify.git.ci/wbndm1234/astrbot_plugin_akasha-terminal/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
-# TRSS Akasha Terminal Plugin
+# astrbot_plugin_akasha-terminal
 
-![:动态访问量](https://count.kjchmc.cn/get/@:xtower-plugin)
+![:动态访问量](https://count.kjchmc.cn/get/@:astrbot_plugin_akasha-terminal)
 
 
-一个功能丰富的Yunzai-Bot插件，提供完整的游戏系统、MySQL数据库&JSON双存储支持和Web管理界面。（本来是trss版本单独开发版，想了想兼容下喵崽）
+一个功能丰富的astrbot插件，提供完整的游戏系统、MySQL数据库&JSON双存储支持和Web管理界面
 
 ## 🌟 主要功能
 
@@ -29,48 +29,6 @@
 - **统计分析**: 命令使用统计、用户活跃度
 - **配置管理**: 在线编辑插件配置
 - **数据库查询**: 直接执行SQL查询
-
-## 🚀 快速开始
-
-### 安装插件
-
-使用 git 进行安装
-
-<details>
-<summary><b>① (国外更新慢) 使用 Github</b></summary>
-
-```bash
-git clone --depth=1 https://github.com/wbndm1234/trss-akasha-terminal-plugin.git ./plugins/trss-akasha-terminal-plugin/
-```
-
-</details>
-
-<details>
-<summary><b>② (国内推荐快) 使用 Gitee</b></summary>
-
-```bash
-git clone --depth=1 https://gitee.com/dmqaq/trss-akasha-terminal-plugin.git ./plugins/trss-akasha-terminal-plugin/
-```
-
-</details>
-
-<details>
-<summary><b>③ (国内备用慢) 使用 Gitcode</b></summary>
-
-```bash
-git clone --depth=1 https://gitcode.com/dmqaq/trss-akasha-terminal-plugin.git ./plugins/trss-akasha-terminal-plugin/
-```
-
-</details>
-
-或者直接下载并解压到 plugins 目录
-
-### 初始化依赖
-
-```bash
-cd ./plugins/trss-akasha-terminal-plugin/
-pnpm i
-```
 
 ### 启动服务
 
@@ -289,34 +247,17 @@ export const cfg = {
 
   </details>
 
-
-#### 常见问题
-
-  <details><summary>展开</summary>
-
-  - 存档路径在哪??
-  - 本插件目录内data/qylp(娶群友)/Userxxx/群号.json; UserData(决斗); battle.json(全局)
-
-  - xxx is not defined
-  - #重置虚空配置后重启
-
-  - cd怎么改啊,怎么改配置啊
-  - config文件夹里
-  
-  - 娶群友相关功能出现cannot read ... (reading"sex"或者'nickname')
-  - 有人老婆或本人退群导致,使用#虚空清除无效存档,即可
-
   - 上述方法未能解决或我有其他问题!
   
   - 联系我们 Q群 1017886209或PR插件啦，球球了（修不动啊QAQ）
   </details>
    
    ## ❤️ 贡献
-  - 这个是原[虚空插件](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) 仓库，我与原插件作者二创以适配trss崽（喵崽的ICQQ还是太牢了），[越追越远](https://gitee.com/go-farther-and-farther)+[上一刻](https://gitee.com/tyg211375)+[nahida](https://gitee.com/nahida22)+[我](https://gitee.com/dmqaq)来改的代码
+  - 这个是原[虚空插件](https://github.com/wbndm1234/trss-akasha-terminal-plugin) 仓库，[心海海](https://github.com/lqc-xhh)来改的代码（我同意二创了，哎嘿）
   
   **提交 Bug 或建议**：
-  - 通过 [GitHub Issues](https://github.com/wbndm1234/trss-akasha-terminal-plugin/issues) 提交问题啦
-  - 通过 [GitHub pull requests](https://github.com/wbndm1234/trss-akasha-terminal-plugin/pulls) 提交PR啦
+  - 通过 [GitHub Issues](https://github.com/wbndm1234/astrbot_plugin_akasha-terminal/issues) 提交问题啦
+  - 通过 [GitHub pull requests](https://github.com/wbndm1234/astrbot_plugin_akasha-terminal/pulls) 提交PR啦
   - 可以来[QQ群](https://qm.qq.com/q/n0ewaCWIGk)玩玩来提点建议捏
 
-![Star History Chart](https://api.star-history.com/svg?repos=wbndm1234/trss-akasha-terminal-plugin&type)
+![Star History Chart](https://api.star-history.com/svg?repos=wbndm1234/astrbot_plugin_akasha-terminal&type)
