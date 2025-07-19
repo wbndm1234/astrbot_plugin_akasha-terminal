@@ -253,7 +253,7 @@ export const cfg = {
   </details>
    
    ## ❤️ 贡献
-  - 这个是原[虚空插件](https://github.com/wbndm1234/trss-akasha-terminal-plugin) 仓库，[心海海](https://github.com/lqc-xhh)来改的代码（我同意二创了，哎嘿）
+  - 这个是原[虚空插件](https://github.com/wbndm1234/trss-akasha-terminal-plugin) 仓库，[nahida](https://github.com/nahida2203)来重构（）
   
   **提交 Bug 或建议**：
   - 通过 [GitHub Issues](https://github.com/wbndm1234/astrbot_plugin_akasha-terminal/issues) 提交问题啦
